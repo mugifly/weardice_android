@@ -1,0 +1,314 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="425"
+   height="425"
+   id="svg2985"
+   version="1.1"
+   inkscape:version="0.48.4 r9939"
+   sodipodi:docname="icon.svg"
+   inkscape:export-filename="/home/masanori/workspace_java/WearDice/design/icon.png"
+   inkscape:export-xdpi="108.42353"
+   inkscape:export-ydpi="108.42353">
+  <title
+     id="title3794">WearDice icon</title>
+  <defs
+     id="defs2987">
+    <filter
+       inkscape:collect="always"
+       id="filter3863">
+      <feGaussianBlur
+         inkscape:collect="always"
+         stdDeviation="7.1624954"
+         id="feGaussianBlur3865" />
+    </filter>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath4117">
+      <rect
+         style="color:#000000;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:#969696;stroke-width:7.70308399;stroke-opacity:1;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+         id="rect4119"
+         width="849.90692"
+         height="844.77155"
+         x="-263.98212"
+         y="-398.4248"
+         ry="155.4904" />
+    </clipPath>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath4121">
+      <rect
+         style="color:#000000;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:#969696;stroke-width:7.70308399;stroke-opacity:1;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+         id="rect4123"
+         width="849.90692"
+         height="844.77155"
+         x="-517.10712"
+         y="-148.46388"
+         ry="155.4904" />
+    </clipPath>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath4125">
+      <rect
+         style="color:#000000;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:#969696;stroke-width:7.70308399;stroke-opacity:1;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+         id="rect4127"
+         width="849.90692"
+         height="844.77155"
+         x="-390.54462"
+         y="-271.8623"
+         ry="155.4904" />
+    </clipPath>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath4129">
+      <rect
+         style="color:#000000;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:#969696;stroke-width:3.75;stroke-opacity:1;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+         id="rect4131"
+         width="413.75"
+         height="411.25"
+         x="8.125"
+         y="5"
+         ry="75.695526" />
+    </clipPath>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath4133">
+      <rect
+         style="color:#000000;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:#969696;stroke-width:3.75;stroke-opacity:1;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+         id="rect4135"
+         width="413.75"
+         height="411.25"
+         x="8.125"
+         y="5"
+         ry="75.695526" />
+    </clipPath>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath4137">
+      <rect
+         style="color:#000000;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:#969696;stroke-width:4.44892454;stroke-opacity:1;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+         id="rect4139"
+         width="490.86469"
+         height="487.89874"
+         x="24.684139"
+         y="-1.7988358"
+         ry="89.80365" />
+    </clipPath>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath4141">
+      <rect
+         style="color:#000000;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:#969696;stroke-width:3.75;stroke-opacity:1;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+         id="rect4143"
+         width="413.75"
+         height="411.25"
+         x="8.125"
+         y="5"
+         ry="75.695526" />
+    </clipPath>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath4145">
+      <rect
+         style="color:#000000;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:#969696;stroke-width:3.75;stroke-opacity:1;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+         id="rect4147"
+         width="413.75"
+         height="411.25"
+         x="8.125"
+         y="5"
+         ry="75.695526" />
+    </clipPath>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath4149">
+      <rect
+         style="color:#000000;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:#969696;stroke-width:3.75;stroke-opacity:1;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+         id="rect4151"
+         width="413.75"
+         height="411.25"
+         x="8.125"
+         y="5"
+         ry="75.695526" />
+    </clipPath>
+  </defs>
+  <sodipodi:namedview
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="0.8"
+     inkscape:cx="239.86178"
+     inkscape:cy="177.0573"
+     inkscape:document-units="pt"
+     inkscape:current-layer="g3873"
+     id="namedview2989"
+     showgrid="false"
+     units="pt"
+     inkscape:window-width="1278"
+     inkscape:window-height="756"
+     inkscape:window-x="0"
+     inkscape:window-y="23"
+     inkscape:window-maximized="1">
+    <inkscape:grid
+       type="xygrid"
+       id="grid3833"
+       empspacing="5"
+       visible="true"
+       enabled="true"
+       snapvisiblegridlinesonly="true"
+       spacingx="5px"
+       spacingy="5px" />
+  </sodipodi:namedview>
+  <metadata
+     id="metadata2991">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title>WearDice icon</dc:title>
+        <cc:license
+           rdf:resource="GPLv3" />
+        <dc:date>2014-05-10</dc:date>
+        <dc:creator>
+          <cc:Agent>
+            <dc:title>Masanori Ohgita</dc:title>
+          </cc:Agent>
+        </dc:creator>
+        <dc:rights>
+          <cc:Agent>
+            <dc:title>Masanori Ohgita</dc:title>
+          </cc:Agent>
+        </dc:rights>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <g
+       id="g3873"
+       transform="translate(-1.875,0)">
+      <rect
+         style="color:#000000;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:3.75000000000000000;stroke-opacity:1;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+         id="rect3932-8"
+         width="413.75"
+         height="411.25"
+         x="8.125"
+         y="5"
+         ry="75.695526"
+         clip-path="url(#clipPath4149)" />
+      <rect
+         ry="47.193718"
+         rx="95.223595"
+         y="335.84164"
+         x="119.15141"
+         height="109.78855"
+         width="190.44719"
+         id="rect3768-8-5-0"
+         style="color:#000000;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:#969696;stroke-width:3.75;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+         clip-path="url(#clipPath4145)" />
+      <rect
+         ry="47.193718"
+         rx="95.223595"
+         y="-18.158346"
+         x="119.15141"
+         height="109.78855"
+         width="190.44719"
+         id="rect3768-8-5"
+         style="color:#000000;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:#969696;stroke-width:3.75;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+         clip-path="url(#clipPath4141)" />
+      <path
+         sodipodi:type="arc"
+         style="color:#000000;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:#969696;stroke-width:5.93189966000000002;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate;stroke-opacity:1;stroke-miterlimit:4;stroke-dasharray:none"
+         id="path2990"
+         sodipodi:cx="269.375"
+         sodipodi:cy="244.375"
+         sodipodi:rx="206.875"
+         sodipodi:ry="206.875"
+         d="m 476.25,244.375 a 206.875,206.875 0 1 1 -413.75,0 206.875,206.875 0 1 1 413.75,0 z"
+         transform="matrix(0.8429003,0,0,0.8429003,-12.681268,6.5162392)"
+         clip-path="url(#clipPath4137)"
+         inkscape:export-filename="/home/masanori/workspace_java/WearDice/design/path3764-8-2.png"
+         inkscape:export-xdpi="8.1400003"
+         inkscape:export-ydpi="8.1400003" />
+      <rect
+         y="93.125"
+         x="95"
+         height="238.75"
+         width="238.75"
+         id="rect2994-1"
+         style="color:#000000;fill:#cbcbcb;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.89999998000000003;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate;filter:url(#filter3863)"
+         ry="28.495968"
+         rx="37.737904"
+         clip-path="url(#clipPath4133)"
+         inkscape:export-filename="/home/masanori/workspace_java/WearDice/design/path3764-8-2.png"
+         inkscape:export-xdpi="8.1400003"
+         inkscape:export-ydpi="8.1400003" />
+      <rect
+         y="93.125"
+         x="95"
+         height="238.75"
+         width="238.75"
+         id="rect2994"
+         style="color:#000000;fill:#cbcbcb;fill-opacity:1;fill-rule:nonzero;stroke:#ffffff;stroke-width:3.025;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate;opacity:0.71999992000000002;stroke-opacity:1;stroke-miterlimit:4;stroke-dasharray:none"
+         ry="28.495968"
+         rx="37.737904"
+         clip-path="url(#clipPath4129)"
+         inkscape:export-filename="/home/masanori/workspace_java/WearDice/design/path3764-8-2.png"
+         inkscape:export-xdpi="113.09"
+         inkscape:export-ydpi="113.09" />
+      <path
+         transform="matrix(0.486818,0,0,0.486818,198.24915,137.34747)"
+         d="m 83.75,154.375 a 50.625,50.625 0 1 1 -101.25,0 50.625,50.625 0 1 1 101.25,0 z"
+         sodipodi:ry="50.625"
+         sodipodi:rx="50.625"
+         sodipodi:cy="154.375"
+         sodipodi:cx="33.125"
+         id="path3764"
+         style="color:#000000;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.89999998;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+         sodipodi:type="arc"
+         clip-path="url(#clipPath4125)"
+         inkscape:export-xdpi="113.09"
+         inkscape:export-ydpi="113.09" />
+      <path
+         transform="matrix(0.486818,0,0,0.486818,259.86206,77.27489)"
+         d="m 83.75,154.375 a 50.625,50.625 0 1 1 -101.25,0 50.625,50.625 0 1 1 101.25,0 z"
+         sodipodi:ry="50.625"
+         sodipodi:rx="50.625"
+         sodipodi:cy="154.375"
+         sodipodi:cx="33.125"
+         id="path3764-6"
+         style="color:#000000;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.89999998;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+         sodipodi:type="arc"
+         clip-path="url(#clipPath4121)"
+         inkscape:export-filename="/home/masanori/workspace_java/WearDice/design/path3764-8-2.png"
+         inkscape:export-xdpi="113.09"
+         inkscape:export-ydpi="113.09" />
+      <path
+         transform="matrix(0.486818,0,0,0.486818,136.63625,198.96037)"
+         d="m 83.75,154.375 a 50.625,50.625 0 1 1 -101.25,0 50.625,50.625 0 1 1 101.25,0 z"
+         sodipodi:ry="50.625"
+         sodipodi:rx="50.625"
+         sodipodi:cy="154.375"
+         sodipodi:cx="33.125"
+         id="path3764-8-2"
+         style="color:#000000;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.89999998;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+         sodipodi:type="arc"
+         clip-path="url(#clipPath4117)"
+         inkscape:export-xdpi="113.09"
+         inkscape:export-ydpi="113.09" />
+    </g>
+  </g>
+</svg>
