@@ -9,9 +9,6 @@ import android.content.Intent;
 import android.graphics.BitmapFactory;
 import android.os.Bundle;
 import android.support.v4.app.NotificationCompat;
-import android.view.View;
-import android.view.View.OnClickListener;
-import android.widget.Button;
 import android.preview.support.v4.app.NotificationManagerCompat;
 
 public class MainActivity extends Activity {
