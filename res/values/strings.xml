@@ -2,8 +2,9 @@
 <resources>
 
     <string name="app_name">WearDice</string>
-    <string name="general_title_throwed_dice">%s がでました</string>
-    <string name="general_message_throwed_dice">サイコロを振りました。</string>
-    <string name="action_rethrow_dice">もう一回振る</string>
+    <string name="general_title_throwed_dice">%s came out</string>
+    <string name="general_message_throwed_dice">Throwed a dice.</string>
+    <string name="action_throw_dice">Throw a dice</string>
+    <string name="action_rethrow_dice">Again</string>
 
 </resources>

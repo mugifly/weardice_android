@@ -21,10 +21,10 @@ public class MainActivity extends Activity {
 		super.onCreate(savedInstanceState);
 		setContentView(R.layout.activity_main);
 		
-		// NotificationManagerを生成
+		// Initialize the NotificationManager
 		notificationManager = NotificationManagerCompat.from(this);
 		
-		// Intentを取得
+		// Fetch the Intent
 		Intent intent = getIntent();
 		if (intent != null && intent.getExtras() != null) {
 			Bundle extra = intent.getExtras();
@@ -37,19 +37,20 @@ public class MainActivity extends Activity {
 			return;
 		}
 		
-		// サイコロを振る
+		// Throw a dice
 		throwDice();
 		
 		finish();
 	}
 	
 	protected void throwDice() {
-		// ユーザがActionを選んだ時に発生させるIntent と そのPendingIntent を生成
+		// Generate the Intent and It's Pending Intent,
+		// for occur when the user has been selected an action
 		Intent viewIntent = new Intent(this, MainActivity.class);
 		viewIntent.putExtra("EVENT_ID", EVENT_ID_RETHROW);
 		PendingIntent viewPendingIntent = PendingIntent.getActivity(this, 0, viewIntent, 0);
 		
-		// 乱数を発生させる
+		// Generate a random number
 		Random rand = new Random();
 		int dice_result = rand.nextInt(6) + 1;
 		int dice_result_icon = -1;
@@ -74,17 +75,17 @@ public class MainActivity extends Activity {
 				break;		
 		};
 		
-		// Notificationを生成
+		// Generate a notification
 		NotificationCompat.Builder notif_builder = new NotificationCompat.Builder(this)
 				.setSmallIcon(R.drawable.dice)
 				.setLargeIcon(BitmapFactory.decodeResource(getResources(), dice_result_icon))
 				.setContentTitle(getResources().getString(R.string.general_title_throwed_dice, dice_result))
 				.setContentText(getResources().getString(R.string.general_message_throwed_dice))
-				// Actionを追加
+				// Add an action
 				.addAction(R.drawable.dice, getResources().getString(R.string.action_rethrow_dice), viewPendingIntent);
 		Notification notif = notif_builder.build();
 		
-		// Notificationを発行
+		// Fire a notification
 		notificationManager.notify(NOTIFICATION_ID, notif);
 	}
 
